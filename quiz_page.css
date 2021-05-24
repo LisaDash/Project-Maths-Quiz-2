@@ -1,0 +1,23 @@
+.body_background {
+    background-image: url("maths.jpg");
+}
+h3 {
+    color: white;
+}
+#number1_ip, #number2_ip {
+    width: 700px;
+    border-radius: 6px;
+}
+#btn_send {
+    width: 400px;
+}
+#score {
+    background-color:tomato;
+	text-align: left;
+	float: left;
+	width: 100px;
+	color: white;
+	border-radius:20px;
+	margin-top: 20px;
+	left: 0;
+}
